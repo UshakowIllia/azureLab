@@ -1,0 +1,23 @@
+0 verbose cli /usr/bin/node /usr/bin/npm
+1 info using npm@10.7.0
+2 info using node@v18.20.3
+3 silly config:load:file:/usr/lib/node_modules/npm/npmrc
+4 silly config:load:file:/home/ki211_uiv/.npmrc
+5 silly config:load:file:/usr/etc/npmrc
+6 verbose title npm init
+7 verbose argv "init" "--yes"
+8 verbose logfile logs-max:10 dir:/home/ki211_uiv/.npm/_logs/2024-12-03T15_52_59_113Z-
+9 verbose logfile /home/ki211_uiv/.npm/_logs/2024-12-03T15_52_59_113Z-debug-0.log
+10 silly logfile done cleaning log files
+11 silly package data {
+11 silly package data   name: 'ki211_uiv',
+11 silly package data   version: '1.0.0',
+11 silly package data   main: 'index.js',
+11 silly package data   scripts: { test: 'echo "Error: no test specified" && exit 1' },
+11 silly package data   keywords: [],
+11 silly package data   author: '',
+11 silly package data   license: 'ISC',
+11 silly package data   description: ''
+11 silly package data }
+12 verbose exit 0
+13 info ok
